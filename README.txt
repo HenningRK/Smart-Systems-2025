@@ -1,4 +1,4 @@
---------------------------------------------------------- Smart Systems 2025 ------------------------------------------------------------------------------------
+-------------------------------- Smart Systems 2025 -----------------------------------
 -----Introduction-----
 AI/GUI code performed through QT-programming language. Made for at university project at USN. Made for commucation between AI --> Raspberry pi --> Automatic car. 
 The AI is programmed in a way that it can describe enviorments through camera, solve mazes(through BFS), explain mazes for directions in coding language and normal conversation with added memory.
