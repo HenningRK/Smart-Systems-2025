@@ -34,3 +34,4 @@ Connects the buttons and makes sure that we get a new window when each button is
 
 -----Mainwindow.h-----
 Private slots and private variables to "Mainwindow.cpp".
+
